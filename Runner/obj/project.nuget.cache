@@ -1,10 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "F12BzvMUgW2ayTFDVsPFt3FrFbi1gzrpecBz6mLyilKS6GUmZZNFBPp9EON0beW3pfpJKWQHb+vxzD2QI5fMsQ==",
+  "dgSpecHash": "qVNySdzIL4QilFt6JE/1NUptsUY/ssgTzrGl7nj56Zn66KHQTokBuzHeorxq1UvqC5EHsjGEehVp8SxEiN2H9w==",
   "success": true,
   "projectFilePath": "C:\\Users\\madse\\source\\repos\\backend-dapper\\Runner\\Runner.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\madse\\.nuget\\packages\\dapper\\2.0.90\\dapper.2.0.90.nupkg.sha512"
+    "C:\\Users\\madse\\.nuget\\packages\\microsoft.extensions.configuration\\5.0.0\\microsoft.extensions.configuration.5.0.0.nupkg.sha512",
+    "C:\\Users\\madse\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\5.0.0\\microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\madse\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512"
   ],
   "logs": []
 }
