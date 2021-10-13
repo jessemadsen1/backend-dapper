@@ -1,0 +1,9 @@
+C:\Users\madse\Source\Repos\backend-dapper\DataLayer\bin\Debug\netcoreapp2.2\DataLayer.deps.json
+C:\Users\madse\Source\Repos\backend-dapper\DataLayer\bin\Debug\netcoreapp2.2\DataLayer.dll
+C:\Users\madse\Source\Repos\backend-dapper\DataLayer\bin\Debug\netcoreapp2.2\DataLayer.pdb
+C:\Users\madse\Source\Repos\backend-dapper\DataLayer\obj\Debug\netcoreapp2.2\DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\madse\Source\Repos\backend-dapper\DataLayer\obj\Debug\netcoreapp2.2\DataLayer.AssemblyInfoInputs.cache
+C:\Users\madse\Source\Repos\backend-dapper\DataLayer\obj\Debug\netcoreapp2.2\DataLayer.AssemblyInfo.cs
+C:\Users\madse\Source\Repos\backend-dapper\DataLayer\obj\Debug\netcoreapp2.2\DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\madse\Source\Repos\backend-dapper\DataLayer\obj\Debug\netcoreapp2.2\DataLayer.dll
+C:\Users\madse\Source\Repos\backend-dapper\DataLayer\obj\Debug\netcoreapp2.2\DataLayer.pdb

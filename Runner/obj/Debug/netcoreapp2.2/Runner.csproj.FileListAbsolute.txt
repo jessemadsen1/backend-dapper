@@ -1,0 +1,17 @@
+C:\Users\madse\Source\Repos\backend-dapper\Runner\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\madse\Source\Repos\backend-dapper\Runner\bin\Debug\netcoreapp2.2\Runner.deps.json
+C:\Users\madse\Source\Repos\backend-dapper\Runner\bin\Debug\netcoreapp2.2\Runner.runtimeconfig.json
+C:\Users\madse\Source\Repos\backend-dapper\Runner\bin\Debug\netcoreapp2.2\Runner.runtimeconfig.dev.json
+C:\Users\madse\Source\Repos\backend-dapper\Runner\bin\Debug\netcoreapp2.2\Runner.dll
+C:\Users\madse\Source\Repos\backend-dapper\Runner\bin\Debug\netcoreapp2.2\Runner.pdb
+C:\Users\madse\Source\Repos\backend-dapper\Runner\bin\Debug\netcoreapp2.2\DataLayer.dll
+C:\Users\madse\Source\Repos\backend-dapper\Runner\bin\Debug\netcoreapp2.2\DataLayer.pdb
+C:\Users\madse\Source\Repos\backend-dapper\Runner\obj\Debug\netcoreapp2.2\Runner.csproj.AssemblyReference.cache
+C:\Users\madse\Source\Repos\backend-dapper\Runner\obj\Debug\netcoreapp2.2\Runner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\madse\Source\Repos\backend-dapper\Runner\obj\Debug\netcoreapp2.2\Runner.AssemblyInfoInputs.cache
+C:\Users\madse\Source\Repos\backend-dapper\Runner\obj\Debug\netcoreapp2.2\Runner.AssemblyInfo.cs
+C:\Users\madse\Source\Repos\backend-dapper\Runner\obj\Debug\netcoreapp2.2\Runner.csproj.CoreCompileInputs.cache
+C:\Users\madse\Source\Repos\backend-dapper\Runner\obj\Debug\netcoreapp2.2\Runner.csproj.CopyComplete
+C:\Users\madse\Source\Repos\backend-dapper\Runner\obj\Debug\netcoreapp2.2\Runner.dll
+C:\Users\madse\Source\Repos\backend-dapper\Runner\obj\Debug\netcoreapp2.2\Runner.pdb
+C:\Users\madse\Source\Repos\backend-dapper\Runner\obj\Debug\netcoreapp2.2\Runner.genruntimeconfig.cache

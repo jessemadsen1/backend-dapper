@@ -1,0 +1,12 @@
+C:\Users\madse\Source\Repos\backend-dapper\DataLayer\bin\Debug\net5.0\DataLayer.deps.json
+C:\Users\madse\Source\Repos\backend-dapper\DataLayer\bin\Debug\net5.0\DataLayer.dll
+C:\Users\madse\Source\Repos\backend-dapper\DataLayer\bin\Debug\net5.0\ref\DataLayer.dll
+C:\Users\madse\Source\Repos\backend-dapper\DataLayer\bin\Debug\net5.0\DataLayer.pdb
+C:\Users\madse\Source\Repos\backend-dapper\DataLayer\obj\Debug\net5.0\DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\madse\Source\Repos\backend-dapper\DataLayer\obj\Debug\net5.0\DataLayer.AssemblyInfoInputs.cache
+C:\Users\madse\Source\Repos\backend-dapper\DataLayer\obj\Debug\net5.0\DataLayer.AssemblyInfo.cs
+C:\Users\madse\Source\Repos\backend-dapper\DataLayer\obj\Debug\net5.0\DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\madse\Source\Repos\backend-dapper\DataLayer\obj\Debug\net5.0\DataLayer.dll
+C:\Users\madse\Source\Repos\backend-dapper\DataLayer\obj\Debug\net5.0\ref\DataLayer.dll
+C:\Users\madse\Source\Repos\backend-dapper\DataLayer\obj\Debug\net5.0\DataLayer.pdb
+C:\Users\madse\Source\Repos\backend-dapper\DataLayer\obj\Debug\net5.0\DataLayer.csproj.AssemblyReference.cache
